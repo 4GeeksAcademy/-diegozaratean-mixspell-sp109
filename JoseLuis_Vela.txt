@@ -1,0 +1,5 @@
+Las tecnologías que más me gustan son:
+    ·HTML
+    ·CSS
+    ·BootStrap
+    ·JS
