@@ -1,0 +1,5 @@
+My favourite technologies so far that I learned during this bootcamp:
+
+-HTML
+-Bootstrap
+-CSS
